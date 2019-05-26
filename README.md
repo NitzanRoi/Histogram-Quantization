@@ -1,2 +1,1 @@
-# Histogram-Quantization
-This image processing exercise consists some image manipulations such as histogram equalization and optimal quantization
+Exercise number 1 in the image processing course at the Hebrew University
